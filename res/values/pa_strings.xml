@@ -175,6 +175,11 @@
     <string name="network_traffic_arrow_summary">Show the network traffic indicator arrows</string>
     <string name="network_traffic_type">Select net activity type</string>    
 
+    <!-- Battery stats reset -->
+    <string name="battery_stats_reset">Reset stats</string>
+    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    <string name="ok_string">Ok</string>
+
     <!-- Buttons -->
     <string name="button_pref_title">Buttons</string>
     <string name="button_swap_layout_title">Swap back &amp; recents</string>
