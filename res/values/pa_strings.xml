@@ -210,6 +210,12 @@
 
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+    
+    <!-- Battery style -->
+    <string name="battery_style_title">Battery style</string>
+    <string name="battery_style_bar">Battery bar</string>
+    <string name="battery_style_circle">Battery circle</string>
+    <string name="battery_style_hidden">Battery hidden</string>
 
     <!-- Swipe up for face unlock -->
     <string name="security_settings_face_require_swipe">Swipe up to unlock</string>
