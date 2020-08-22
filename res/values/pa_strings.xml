@@ -60,6 +60,10 @@
     <!-- Swipe to screenshot -->
     <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
     <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+ 
+   <!-- Night Light filter for FOD -->
+    <string name="fod_night_light_title">Disable night light when showing FOD</string>
+    <string name="fod_night_light_summary">Disable night light on lockscreen when FOD is active</string>
 
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">Playback control</string>
